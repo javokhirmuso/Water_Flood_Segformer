@@ -32,7 +32,7 @@ python scripts/evaluate.py --model_name_or_path ./output --dataset_name path/to/
 ```
 
 ## Results
-The results of the segmentation will be saved in the `results` directory.
+The results of the segmentation will be saved in the `visualization_ouputs` directory.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
