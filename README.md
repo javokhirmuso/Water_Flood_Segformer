@@ -35,11 +35,11 @@ python scripts/evaluate.py --model_name_or_path ./output --dataset_name path/to/
 The results of the segmentation will be saved in the `visualization_ouputs` directory.
 
 - 
-  <img src="visualization_outputs/output.png" height="500px" width="70%"
+  <img src="visualization_outputs/output.png" height="100%" width="100%"
         style="object-fit:contain"
     />
 - 
-  <img src="visualization_outputs/output2.png" height="500px" width="70%"
+  <img src="visualization_outputs/output2.png" height="100%" width="100%"
         style="object-fit:contain"
     />
 
